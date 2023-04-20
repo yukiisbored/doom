@@ -13,8 +13,6 @@
        ophints
        (popup +defaults)
        vc-gutter
-       (window-select +switch-window)
-       workspaces
        zen
        (treemacs +lsp)
 
