@@ -11,7 +11,7 @@
 (add-to-list 'auto-mode-alist '("\\.mdx" . markdown-mode))
 
 (after! company
-  (setq company-idle-delay nil))
+  (setq company-idle-delay 0))
 
 (setq evil-ex-substitute-global t)
 
