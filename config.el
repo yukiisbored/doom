@@ -4,7 +4,8 @@
       user-mail-address "hi@yukiisbo.red")
 
 (setq doom-font  (font-spec :family "Fantasque Sans Mono" :size 16)
-      doom-theme 'modus-operandi)
+      doom-theme 'modus-operandi
+      fancy-splash-image (concat doom-private-dir "character.png"))
 
 (setq display-line-numbers-type nil)
 
