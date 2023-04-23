@@ -18,7 +18,7 @@
 
        :editor
        (evil +everywhere)
-       (format +onsave)
+       format
        multiple-cursors
        rotate-text
        snippets
